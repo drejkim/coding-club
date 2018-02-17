@@ -10,3 +10,7 @@ This repository contains the source code used during lessons at [Coding Club - S
     * [Mac](https://docs.python.org/3/using/mac.html)
 * Dependencies: `pip install -r requirements.txt`
     * *Note: If you also have Python 2 installed on your system, use `pip3` instead*
+
+## References
+
+* [Invent Your Own Computer Games with Python, 4th Edition](http://inventwithpython.com/invent4thed/)
