@@ -1,6 +1,6 @@
 # Coding Club
 
-This repository contains the source code used during lessons at [Coding Club - Star Kids Fremont](http://www.starkidsbayarea.com/coding-club.html).
+This repository contains code used during lessons at [Star Kids Bay Area Coding Club](http://www.starkidsbayarea.com/coding-club.html).
 
 ## Requirements
 
