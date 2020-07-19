@@ -6,8 +6,8 @@ x = 0
 while x < 4:
     if x == 1:
         t.pencolor("red")
-    # else:
-    #     t.pencolor("black")
+    else:
+        t.pencolor("black")
 
     t.right(90)
     t.forward(100)
