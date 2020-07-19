@@ -14,6 +14,15 @@ elif age == 13:
 else:
     print("Huh?")
 
+age = 1
+print(age)
+if age < 0:
+    print("You have not been born yet.")
+elif age < 2:
+    print("You are a baby!")
+else:
+    print("You are not a baby. You are growing up.")
+
 age = 13
 print(age)
 if age == 12 or age == 13:
